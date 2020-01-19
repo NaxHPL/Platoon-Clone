@@ -18,3 +18,5 @@ Both players get dealt ten cards and must arrange them into five units. There is
 + A unit cannot be comprised solely of a Wizard.
 + A unit cannot have more than two special cards (King, Bishop, Wizard) or have two of the same special card.
 + A unit cannot contain both a King and a Bishop.
+
+Here's a video showing a couple games: https://www.youtube.com/watch?v=_GWgnDHym-I
